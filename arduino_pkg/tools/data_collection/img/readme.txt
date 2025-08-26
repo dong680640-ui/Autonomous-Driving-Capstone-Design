@@ -1,0 +1,1 @@
+This directory is for images which is captured by data_collection.py.
